@@ -10896,6 +10896,10 @@ body {
 }
 .div.funzone {
   font-size: 33px;
+  margin-bottom: 1.5rem !important;
+  padding-left: 1.5rem !important;
+  font-style: italic !important;
+  line-height: 1 !important;
 }
 
 .masthead {
@@ -10947,6 +10951,14 @@ body {
 }
 
 @media (min-width: 992px) {
+  .div.funzone {
+    font-size: 33px;
+    margin-bottom: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    font-style: italic !important;
+    line-height: 1 !important;
+  }
+
   .masthead {
     height: 100%;
     width: 75vw;
